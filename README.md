@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subham Sahu
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Data Structure & Web Development
 - 🌱 I’m currently learning Python,C,Flutter
 - 💞️ I'm good Designer
 - 📫 Contact me using
