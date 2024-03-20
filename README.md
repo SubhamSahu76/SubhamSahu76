@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Subham Sahu
 - 👀 I’m interested in Data Structure & Web Development
 - 🌱 I’m currently learning Python,C,Flutter
-- 💞️ I'm good Designer
+- 💞️ I'm a good Designer & Dynamic-Problem Solver
 - 📫 Contact me using
 -    LinkdIn:www.linkedin.com/in/subhamsahu76
 -    Instagram: https://instagram.com/mr.subham_76?igshid=NzZlODBkYWE4Ng==
