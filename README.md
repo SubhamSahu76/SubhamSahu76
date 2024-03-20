@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,C,Flutter
 - 💞️ I'm good Designer
 - 📫 Contact me using
--    LinkdIn: www.linkedin.com/in/subham-sahu-92a789239
+-    LinkdIn:www.linkedin.com/in/subhamsahu76
 -    Instagram: https://instagram.com/mr.subham_76?igshid=NzZlODBkYWE4Ng==
 
 <!---
